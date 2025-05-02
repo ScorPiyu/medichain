@@ -1,0 +1,183 @@
+[
+    {
+        "id": "1",
+        "email": "sarah@medichain.com",
+        "name": "Dr. Sarah Johnson",
+        "specialty": "Cardiologist",
+        "qualifications": "MD, FACC",
+        "experience": "15 years",
+        "hospital": "City Medical Center",
+        "location": "New York, NY",
+        "about": "Dr. Sarah Johnson is a board-certified cardiologist with over 15 years of experience. She specializes in preventive cardiology, heart failure management, and cardiovascular disease in women.",
+        "profileImage": "https://randomuser.me/api/portraits/women/64.jpg",
+        "rating": 4.9,
+        "reviewCount": 127,
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "consultationFee": 150,
+        "availableDays": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+        ],
+        "education": [
+            {
+                "degree": "MD",
+                "institution": "Harvard Medical School",
+                "year": "2005"
+            },
+            {
+                "degree": "Residency",
+                "institution": "Massachusetts General Hospital",
+                "year": "2008"
+            },
+            {
+                "degree": "Fellowship",
+                "institution": "Johns Hopkins Hospital",
+                "year": "2011"
+            }
+        ],
+        "services": [
+            "Cardiac Consultation",
+            "ECG",
+            "Stress Testing",
+            "Echocardiography"
+        ],
+        "telehealth": true,
+        "inPerson": true,
+        "timeSlots": [
+            {
+                "21042025": [
+                    "1130",
+                    "1400"
+                ]
+            }
+        ],
+        "pastAppointments": [
+            [
+                "14042025",
+                "1200",
+                "Qwerty Asdfg",
+                "online",
+                "qwerty@medichain"
+            ],
+            [
+                "17042025",
+                "1200",
+                "Qwerty Asdfg",
+                "offline",
+                "qwerty@medichain"
+            ]
+        ],
+        "cancelledAppointments": [
+            [
+                "14042025",
+                "1000",
+                "Qwerty Asdfg",
+                "offline",
+                "qwerty@medichain"
+            ],
+            [
+                "17042025",
+                "1000",
+                "Qwerty Asdfg",
+                "online",
+                "qwerty@medichain"
+            ]
+        ],
+        "appointments": [
+            [
+                "18042025",
+                "1100",
+                "Qwerty Asdfg",
+                "online",
+                "qwerty@medichain"
+            ],
+            [
+                "20042025",
+                "1700",
+                "Qwerty Asdfg",
+                "offline",
+                "qwerty@medichain.com"
+            ],
+            [
+                "21042025",
+                "1000",
+                "Qwerty Asdfg",
+                "offline",
+                "qwerty@medichain.com"
+            ]
+        ]
+    },
+    {
+        "id": "2",
+        "email": "michael@medichain.com",
+        "name": "Dr. Michael Williams",
+        "specialty": "Neurologist",
+        "qualifications": "MD, PhD",
+        "experience": "12 years",
+        "hospital": "Metropolitan Neurology Institute",
+        "location": "Boston, MA",
+        "about": "Dr. Michael Williams is a renowned neurologist specializing in headache disorders, multiple sclerosis, and stroke management. His research has been published in leading medical journals.",
+        "profileImage": "https://randomuser.me/api/portraits/men/32.jpg",
+        "rating": 4.7,
+        "reviewCount": 98,
+        "languages": [
+            "English",
+            "French"
+        ],
+        "consultationFee": 175,
+        "availableDays": [
+            "Tuesday",
+            "Thursday",
+            "Saturday"
+        ],
+        "education": [
+            {
+                "degree": "MD",
+                "institution": "Yale School of Medicine",
+                "year": "2008"
+            },
+            {
+                "degree": "PhD",
+                "institution": "Yale University",
+                "year": "2010"
+            },
+            {
+                "degree": "Residency",
+                "institution": "Mayo Clinic",
+                "year": "2014"
+            }
+        ],
+        "services": [
+            "Neurological Examination",
+            "EEG",
+            "EMG",
+            "Botox for Migraines"
+        ],
+        "telehealth": true,
+        "inPerson": true,
+        "timeSlots": [
+            {
+                "16042025": [
+                    "1500",
+                    "1700",
+                    "2100"
+                ]
+            },
+            {
+                "17042025": [
+                    "1000",
+                    "1130",
+                    "1400",
+                    "1700"
+                ]
+            }
+        ],
+        "pastAppointments" : [],
+        "cancelledAppointments" : [],
+        "appointments" : []
+    }
+]
